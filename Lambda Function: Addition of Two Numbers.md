@@ -16,6 +16,5 @@ print(f(a, b))
 Enter the first number: 10
 Enter the second number: 15
 25
-
 ## Result
 Thus,we have written a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
